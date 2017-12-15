@@ -1,0 +1,76 @@
+body {
+    background-image: url("../images/background_image.jpg");
+    background-size: cover;
+}
+
+#redcrystal {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    margin: 0 auto;
+    float: right;
+}
+
+#bluecrystal {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    float: left;
+    
+}
+#greencrystal {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    margin: 0 auto;
+    float: right;
+}
+#yellowcrystal {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    margin: 0 auto;
+    float: left;
+    
+}
+
+#instructionsbox {
+    text-align: center;
+    font-family: 'Spectral SC', serif;
+    color: white;
+}
+
+#instructions {
+    font-size: 120%;
+}
+
+#counterbox {
+    text-align: center;
+    font-family: 'Spectral SC', serif;
+    color: white;
+    font-size: 24px;
+    margin-top: 15px;
+}
+
+#winlossbox {
+    margin-top: 40px;
+   
+}
+
+.card {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
